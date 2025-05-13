@@ -1,54 +1,75 @@
-# React + TypeScript + Vite
+# 🛍️Curatify - A Product Recommendation Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React application that displays recommended products with dynamic filters for category and price. Built using **Zustand** for global state management, **Tailwind CSS** and **ShadCN UI** for sleek UI components, and tested with **Jest** and **React Testing Library**. Deployed on **Netlify**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Dynamic filters for **category** and **price**
+- 📱 Responsive layout with collapsible filters on mobile
+- 🎨 Elegant UI with **Tailwind CSS** + **ShadCN UI**
+- 🧠 Global state management with **Zustand**
+- 🧪 Unit tested with **Jest** and **React Testing Library**
+- ☁️ Easy deployment via **Netlify**
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+🎞️ Animations & UX Enhancements:
+  Framer Motion is used for entrance transitions and hover effects , making UI feel smooth and interactive.
+Mobile Filters Collapse:
+  Filters collapse into an accordion or toggleable panel on small screens to improve usability and reduce clutter.
+Tailwind Transitions:
+  Smooth fade and slide transitions using Tailwind classes like transition, duration-300, ease-in-out.
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+🧠 State Management — Zustand
+We use Zustand for lightweight and scalable state management across the product dashboard.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+💡 State Purpose
+The global store manages:
+  category: selected category filter
+  priceRange: array [min, max]
+  Actions: setCategory, setPriceRange, and resetFilters
+Filters update values using onValueChange or onSliderChange events. When either category or priceRange changes, the product list automatically re-renders by consuming the updated values from the store.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+---
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+## 🛠️ Tech Stack
+
+| Tech                | Purpose                            |
+|---------------------|-------------------------------------|
+| React + Vite        | Frontend and build tooling          |
+| TypeScript          | Static typing                       |
+| React Router        | Client-side routing                 |
+| Zustand             | Global state management             |
+| Tailwind CSS        | Utility-first CSS styling           |
+| ShadCN UI           | Headless UI components              |
+| Jest + React Testing Library | Unit & integration testing |
+| Netlify             | Hosting & CI/CD                     |
+
+---
+
+🧪 Testing with Jest
+We use Jest and React Testing Library for unit and integration tests.
+
+🔧 Setup
+If not already configured, install:
+npm install jest --save-dev
+npm install @testing-library/react --save-dev
+npm install ts-jest @types/jest --save-dev
+
+Run if you're testing app
+npm install ts-node @testing-library/jest-dom --save-dev
+npm install jest-environment-jsdom
+npm install identity-obj-proxy --save-dev
+
+npm run test
+
+🧭 Running the Application
+1. Clone the repository
+git clone <repository_link>
+```cd repo```
+2. Install dependencies
+```npm install```
+3. Start development server
+```npm run dev```
+4. Run tests
+```npm run test```

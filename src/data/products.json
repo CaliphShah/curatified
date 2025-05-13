@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Leather Belt",
+    "category": "Clothing",
+    "price": 75.99,
+    "image": "https://source.unsplash.com/300x200/?leather_belt",
+    "description": "A timeless, genuine leather belt. Perfect for formal and casual wear. Features a durable buckle and fine stitching.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Woven Fabric Belt",
+    "category": "Clothing",
+    "price": 29.99,
+    "image": "https://source.unsplash.com/300x200/?fabric_belt",
+    "description": "Comfortable and versatile woven belt. Ideal for everyday use with jeans or chinos. Available in multiple colors.",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Smartphone X Pro",
+    "category": "Electronics",
+    "price": 999.0,
+    "image": "https://source.unsplash.com/300x200/?smartphone",
+    "description": "The latest smartphone with a stunning display, powerful processor, and advanced camera system. 5G enabled.",
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 199.0,
+    "image": "https://source.unsplash.com/300x200/?headphones",
+    "description": "High-quality wireless headphones with noise cancellation. Enjoy immersive sound for up to 30 hours.",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "The Great Novel",
+    "category": "Books",
+    "price": 15.5,
+    "image": "https://source.unsplash.com/300x200/?novel",
+    "description": "A captivating fiction novel that explores themes of love, loss, and redemption. A bestseller.",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "name": "History of the World",
+    "category": "Books",
+    "price": 25.0,
+    "image": "https://source.unsplash.com/300x200/?history_book",
+    "description": "A comprehensive non-fiction book detailing the history of human civilization. Illustrated.",
+    "rating": 4.5
+  },
+  {
+    "id": 7,
+    "name": "Modern Sofa",
+    "category": "Home Goods",
+    "price": 799.0,
+    "image": "https://source.unsplash.com/300x200/?sofa",
+    "description": "A stylish and comfortable sofa, perfect for any living room. Upholstered in premium fabric.",
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "name": "Dining Table Set",
+    "category": "Home Goods",
+    "price": 650.0,
+    "image": "https://source.unsplash.com/300x200/?dining_table",
+    "description": "Elegant dining table set with four chairs. Made from solid wood with a smooth finish.",
+    "rating": 4.3
+  },
+  {
+    "id": 9,
+    "name": "Stainless Steel Kettle",
+    "category": "Kitchen Appliances",
+    "price": 45.0,
+    "image": "https://source.unsplash.com/300x200/?kettle",
+    "description": "A fast-boiling stainless steel kettle with an ergonomic design and auto shut-off feature.",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Food Processor",
+    "category": "Kitchen Appliances",
+    "price": 150.0,
+    "image": "https://source.unsplash.com/300x200/?food_processor",
+    "description": "A versatile food processor for chopping, slicing, and mixing. Includes multiple attachments.",
+    "rating": 4.7
+  },
+  {
+    "id": 11,
+    "name": "Running Shoes",
+    "category": "Sports Equipment",
+    "price": 120.0,
+    "image": "https://source.unsplash.com/300x200/?running_shoes",
+    "description": "Lightweight and cushioned running shoes for optimal performance. Breathable mesh upper.",
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "name": "Yoga Mat",
+    "category": "Sports Equipment",
+    "price": 25.0,
+    "image": "https://source.unsplash.com/300x200/?yoga_mat",
+    "description": "Non-slip and durable yoga mat for comfortable workouts. Easy to clean and carry.",
+    "rating": 4.4
+  },
+  {
+    "id": 13,
+    "name": "Luxury Perfume",
+    "category": "Beauty & Personal Care",
+    "price": 100.0,
+    "image": "https://source.unsplash.com/300x200/?perfume",
+    "description": "A sophisticated and long-lasting fragrance with floral and woody notes.",
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "name": "Skincare Set",
+    "category": "Beauty & Personal Care",
+    "price": 80.0,
+    "image": "https://source.unsplash.com/300x200/?skincare",
+    "description": "A complete skincare set including cleanser, toner, serum, and moisturizer. For all skin types.",
+    "rating": 4.6
+  },
+  {
+    "id": 15,
+    "name": "Cordless Drill",
+    "category": "Tools & Home Improvement",
+    "price": 90.0,
+    "image": "https://source.unsplash.com/300x200/?drill",
+    "description": "A powerful cordless drill with a long-lasting battery. Includes various drill bits.",
+    "rating": 4.5
+  },
+  {
+    "id": 16,
+    "name": "Tool Set",
+    "category": "Tools & Home Improvement",
+    "price": 120.0,
+    "image": "https://source.unsplash.com/300x200/?tool_set",
+    "description": "A comprehensive tool set with all the essentials for home repairs and projects.",
+    "rating": 4.4
+  },
+  {
+    "id": 17,
+    "name": "Building Blocks Set",
+    "category": "Toys & Games",
+    "price": 50.0,
+    "image": "https://source.unsplash.com/300x200/?building_blocks",
+    "description": "A large set of colorful building blocks for creative construction and play.",
+    "rating": 4.7
+  },
+  {
+    "id": 18,
+    "name": "Board Game",
+    "category": "Toys & Games",
+    "price": 30.0,
+    "image": "https://source.unsplash.com/300x200/?board_game",
+    "description": "A fun and engaging board game for the whole family. Promotes strategic thinking.",
+    "rating": 4.6
+  },
+  {
+    "id": 19,
+    "name": "Dog Bed",
+    "category": "Pet Supplies",
+    "price": 60.0,
+    "image": "https://source.unsplash.com/300x200/?dog_bed",
+    "description": "A comfortable and supportive bed for dogs of all sizes. Washable cover.",
+    "rating": 4.5
+  },
+  {
+    "id": 20,
+    "name": "Cat Tree",
+    "category": "Pet Supplies",
+    "price": 80.0,
+    "image": "https://source.unsplash.com/300x200/?cat_tree",
+    "description": "A multi-level cat tree with scratching posts and perches. Provides exercise and entertainment.",
+    "rating": 4.7
+  },
+  {
+    "id": 21,
+    "name": "Ergonomic Office Chair",
+    "category": "Office Products",
+    "price": 250.0,
+    "image": "https://source.unsplash.com/300x200/?office_chair",
+    "description": "An adjustable ergonomic office chair designed for comfort and support during long work hours.",
+    "rating": 4.8
+  },
+  {
+    "id": 22,
+    "name": "Desk Organizer",
+    "category": "Office Products",
+    "price": 30.0,
+    "image": "https://source.unsplash.com/300x200/?desk_organizer",
+    "description": "A stylish desk organizer to keep your workspace tidy and efficient. Multiple compartments.",
+    "rating": 4.4
+  },
+  {
+    "id": 23,
+    "name": "Car Wax Kit",
+    "category": "Automotive",
+    "price": 40.0,
+    "image": "https://source.unsplash.com/300x200/?car_wax",
+    "description": "A complete car wax kit to give your vehicle a showroom shine. Includes wax, applicator, and buffing cloth.",
+    "rating": 4.6
+  },
+  {
+    "id": 24,
+    "name": "Car Floor Mats",
+    "category": "Automotive",
+    "price": 60.0,
+    "image": "https://source.unsplash.com/300x200/?car_floor_mats",
+    "description": "Durable and easy-to-clean car floor mats. Protects your car's interior from dirt and spills.",
+    "rating": 4.4
+  },
+  {
+    "id": 25,
+    "name": "Multivitamin Supplement",
+    "category": "Health & Wellness",
+    "price": 25.0,
+    "image": "https://source.unsplash.com/300x200/?multivitamin",
+    "description": "A daily multivitamin supplement to support overall health and well-being. Contains essential vitamins and minerals.",
+    "rating": 4.5
+  },
+  {
+    "id": 26,
+    "name": "Fitness Tracker",
+    "category": "Health & Wellness",
+    "price": 100.0,
+    "image": "https://source.unsplash.com/300x200/?fitness_tracker",
+    "description": "A wearable fitness tracker to monitor your activity levels, heart rate, and sleep patterns.",
+    "rating": 4.7
+  },
+  {
+    "id": 27,
+    "name": "Suitcase Set",
+    "category": "Luggage & Travel Gear",
+    "price": 300.0,
+    "image": "https://source.unsplash.com/300x200/?suitcase",
+    "description": "A set of three durable suitcases in various sizes for all your travel needs. Includes TSA locks.",
+    "rating": 4.6
+  },
+  {
+    "id": 28,
+    "name": "Travel Backpack",
+    "category": "Luggage & Travel Gear",
+    "price": 80.0,
+    "image": "https://source.unsplash.com/300x200/?travel_backpack",
+    "description": "A spacious and comfortable travel backpack with multiple compartments and padded straps.",
+    "rating": 4.5
+  },
+  {
+    "id": 29,
+    "name": "Acoustic Guitar",
+    "category": "Musical Instruments",
+    "price": 250.0,
+    "image": "https://source.unsplash.com/300x200/?acoustic_guitar",
+    "description": "A high-quality acoustic guitar with a rich, resonant sound. Ideal for beginners and experienced players.",
+    "rating": 4.7
+  },
+  {
+    "id": 30,
+    "name": "Keyboard",
+    "category": "Musical Instruments",
+    "price": 150.0,
+    "image": "https://source.unsplash.com/300x200/?keyboard_instrument",
+    "description": "A 61-key digital keyboard with hundreds of sounds and rhythms, perfect for learning and performing.",
+    "rating": 4.6
+  },
+  {
+    "id": 31,
+    "name": "Running Shorts",
+    "category": "Clothing",
+    "price": 35.99,
+    "image": "https://source.unsplash.com/300x200/?running_shorts",
+    "description": "Lightweight and breathable running shorts with a comfortable fit.  Available in several colors.",
+    "rating": 4.4
+  },
+  {
+    "id": 32,
+    "name": "Formal Trousers",
+    "category": "Clothing",
+    "price": 69.99,
+    "image": "https://source.unsplash.com/300x200/?formal_trousers",
+    "description": "Classic formal trousers made from high-quality fabric.  Perfect for office wear or special occasions.",
+    "rating": 4.5
+  },
+  {
+    "id": 33,
+    "name": "Smartwatch",
+    "category": "Electronics",
+    "price": 300.0,
+    "image": "https://source.unsplash.com/300x200/?smartwatch",
+    "description": "A feature-rich smartwatch with fitness tracking, notifications, and app integration.",
+    "rating": 4.7
+  },
+  {
+    "id": 34,
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 89.0,
+    "image": "https://source.unsplash.com/300x200/?bluetooth_speaker",
+    "description": "A compact and powerful portable Bluetooth speaker with excellent sound quality. Waterproof and long battery life.",
+    "rating": 4.6
+  },
+  {
+    "id": 35,
+    "name": "Science Fiction Novel",
+    "category": "Books",
+    "price": 18.0,
+    "image": "https://source.unsplash.com/300x200/?science_fiction_book",
+    "description": "An exciting science fiction novel with a gripping plot and well-developed characters.",
+    "rating": 4.8
+  },
+  {
+    "id": 36,
+    "name": "Cookbook",
+    "category": "Books",
+    "price": 22.0,
+    "image": "https://source.unsplash.com/300x200/?cookbook",
+    "description": "A beautifully illustrated cookbook with a variety of delicious recipes from around the world.",
+    "rating": 4.5
+  },
+  {
+    "id": 37,
+    "name": "Coffee Table",
+    "category": "Home Goods",
+    "price": 250.0,
+    "image": "https://source.unsplash.com/300x200/?coffee_table",
+    "description": "A modern coffee table with a sleek design.  Perfect for your living room.",
+    "rating": 4.4
+  },
+  {
+    "id": 38,
+    "name": "Area Rug",
+    "category": "Home Goods",
+    "price": 350.0,
+    "image": "https://source.unsplash.com/300x200/?area_rug",
+    "description": "A stylish area rug to add warmth and texture to your floor.  Available in various sizes and patterns.",
+    "rating": 4.5
+  },
+  {
+    "id": 39,
+    "name": "Blender",
+    "category": "Kitchen Appliances",
+    "price": 120.0,
+    "image": "https://source.unsplash.com/300x200/?blender",
+    "description": "A high-performance blender for smoothies, soups, and more.  Powerful motor and durable construction.",
+    "rating": 4.7
+  },
+  {
+    "id": 40,
+    "name": "Microwave Oven",
+    "category": "Kitchen Appliances",
+    "price": 100.0,
+    "image": "https://source.unsplash.com/300x200/?microwave",
+    "description": "A convenient microwave oven for quick and easy cooking.  Multiple power levels and settings.",
+    "rating": 4.4
+  },
+  {
+    "id": 41,
+    "name": "Basketball",
+    "category": "Sports Equipment",
+    "price": 30.0,
+    "image": "https://source.unsplash.com/300x200/?basketball",
+    "description": "A high-quality basketball for indoor and outdoor play.  Durable and excellent grip.",
+    "rating": 4.5
+  },
+  {
+    "id": 42,
+    "name": "Tennis Racket",
+    "category": "Sports Equipment",
+    "price": 150.0,
+    "image": "https://source.unsplash.com/300x200/?tennis_racket",
+    "description": "A professional-grade tennis racket for enhanced performance. Lightweight and powerful.",
+    "rating": 4.7
+  },
+  {
+    "id": 43,
+    "name": "Hair Dryer",
+    "category": "Beauty & Personal Care",
+    "price": 60.0,
+    "image": "https://source.unsplash.com/300x200/?hair_dryer",
+    "description": "A powerful and fast-drying hair dryer with multiple heat and speed settings.",
+    "rating": 4.6
+  },
+  {
+    "id": 44,
+    "name": "Makeup Brush Set",
+    "category": "Beauty & Personal Care",
+    "price": 40.0,
+    "image": "https://source.unsplash.com/300x200/?makeup_brushes",
+    "description": "A complete set of high-quality makeup brushes for flawless application. Soft and durable.",
+    "rating": 4.5
+  },
+  {
+    "id": 45,
+    "name": "Hammer",
+    "category": "Tools & Home Improvement",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?hammer",
+    "description": "A durable hammer with a comfortable grip. Essential for any toolbox.",
+    "rating": 4.4
+  },
+  {
+    "id": 46,
+    "name": "Screwdriver Set",
+    "category": "Tools & Home Improvement",
+    "price": 30.0,
+    "image": "https://source.unsplash.com/300x200/?screwdriver_set",
+    "description": "A versatile screwdriver set with multiple sizes and types of screwdrivers.",
+    "rating": 4.5
+  },
+  {
+    "id": 47,
+    "name": "Stuffed Animal",
+    "category": "Toys & Games",
+    "price": 25.0,
+    "image": "https://source.unsplash.com/300x200/?stuffed_animal",
+    "description": "A soft and cuddly stuffed animal. Perfect for children of all ages.",
+    "rating": 4.7
+  },
+  {
+    "id": 48,
+    "name": "Puzzle",
+    "category": "Toys & Games",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?puzzle",
+    "description": "An engaging puzzle for hours of fun. Available in various themes and difficulty levels.",
+    "rating": 4.6
+  },
+  {
+    "id": 49,
+    "name": "Dog Food",
+    "category": "Pet Supplies",
+    "price": 50.0,
+    "image": "https://source.unsplash.com/300x200/?dog_food",
+    "description": "High-quality dry dog food with essential nutrients. Promotes healthy digestion.",
+    "rating": 4.5
+  },
+  {
+    "id": 50,
+    "name": "Cat Litter",
+    "category": "Pet Supplies",
+    "price": 25.0,
+    "image": "https://source.unsplash.com/300x200/?cat_litter",
+    "description": "Clumping cat litter that is easy to clean and controls odor effectively.",
+    "rating": 4.4
+  },
+  {
+    "id": 51,
+    "name": "Office Desk",
+    "category": "Office Products",
+    "price": 300.0,
+    "image": "https://source.unsplash.com/300x200/?office_desk",
+    "description": "A spacious and sturdy office desk with a modern design. Provides ample workspace.",
+    "rating": 4.6
+  },
+  {
+    "id": 52,
+    "name": "File Cabinet",
+    "category": "Office Products",
+    "price": 200.0,
+    "image": "https://source.unsplash.com/300x200/?file_cabinet",
+    "description": "A durable file cabinet to keep your documents organized and secure.",
+    "rating": 4.5
+  },
+  {
+    "id": 53,
+    "name": "Car Battery Charger",
+    "category": "Automotive",
+    "price": 70.0,
+    "image": "https://source.unsplash.com/300x200/?car_battery_charger",
+    "description": "A portable car battery charger to quickly and safely charge your car battery.",
+    "rating": 4.7
+  },
+  {
+    "id": 54,
+    "name": "Tire Pressure Gauge",
+    "category": "Automotive",
+    "price": 15.0,
+    "image": "https://source.unsplash.com/300x200/?tire_pressure_gauge",
+    "description": "A digital tire pressure gauge for accurate readings. Helps maintain optimal tire pressure.",
+    "rating": 4.4
+  },
+  {
+    "id": 55,
+    "name": "Protein Powder",
+    "category": "Health & Wellness",
+    "price": 40.0,
+    "image": "https://source.unsplash.com/300x200/?protein_powder",
+    "description": "High-quality protein powder to support muscle growth and recovery. Available in various flavors.",
+    "rating": 4.6
+  },
+  {
+    "id": 56,
+    "name": "Water Bottle",
+    "category": "Health & Wellness",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?water_bottle",
+    "description": "A durable and reusable water bottle. Helps you stay hydrated throughout the day.",
+    "rating": 4.5
+  },
+  {
+    "id": 57,
+    "name": "Carry-On Suitcase",
+    "category": "Luggage & Travel Gear",
+    "price": 150.0,
+    "image": "https://source.unsplash.com/300x200/?carry_on_suitcase",
+    "description": "A lightweight and durable carry-on suitcase with spinner wheels and a telescoping handle.",
+    "rating": 4.7
+  },
+  {
+    "id": 58,
+    "name": "Travel Pillow",
+    "category": "Luggage & Travel Gear",
+    "price": 25.0,
+    "image": "https://source.unsplash.com/300x200/?travel_pillow",
+    "description": "A comfortable travel pillow to support your neck during long journeys.",
+    "rating": 4.4
+  },
+  {
+    "id": 59,
+    "name": "Electric Guitar",
+    "category": "Musical Instruments",
+    "price": 400.0,
+    "image": "https://source.unsplash.com/300x200/?electric_guitar",
+    "description": "A high-quality electric guitar with a solid body and versatile sound. Ideal for various music genres.",
+    "rating": 4.8
+  },
+  {
+    "id": 60,
+    "name": "Drum Set",
+    "category": "Musical Instruments",
+    "price": 600.0,
+    "image": "https://source.unsplash.com/300x200/?drum_set",
+    "description": "A complete drum set with all the necessary hardware.  Great for practice and performance.",
+    "rating": 4.7
+  },
+  {
+    "id": 61,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 59.99,
+    "image": "https://source.unsplash.com/300x200/?jeans",
+    "description": "Classic blue jeans, comfortable and durable, suitable for casual wear.",
+    "rating": 4.3
+  },
+  {
+    "id": 62,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 19.99,
+    "image": "https://source.unsplash.com/300x200/?t-shirt",
+    "description": "Soft cotton t-shirt, available in many colors, a wardrobe essential.",
+    "rating": 4.1
+  },
+  {
+    "id": 63,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 1200.0,
+    "image": "https://source.unsplash.com/300x200/?laptop",
+    "description": "Powerful laptop with high-resolution display, large storage, and fast processor.",
+    "rating": 4.9
+  },
+  {
+    "id": 64,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 400.0,
+    "image": "https://source.unsplash.com/300x200/?tablet",
+    "description": "Portable tablet with a vibrant screen, long battery life, and user-friendly interface.",
+    "rating": 4.5
+  },
+  {
+    "id": 65,
+    "name": "Mystery Novel",
+    "category": "Books",
+    "price": 16.0,
+    "image": "https://source.unsplash.com/300x200/?mystery_novel",
+    "description": "A thrilling mystery novel with twists and turns that will keep you guessing until the end.",
+    "rating": 4.7
+  },
+  {
+    "id": 66,
+    "name": "Self-Help Book",
+    "category": "Books",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?self_help_book",
+    "description": "A motivational self-help book with practical advice for personal growth.",
+    "rating": 4.4
+  },
+  {
+    "id": 67,
+    "name": "Bed Frame",
+    "category": "Home Goods",
+    "price": 400.0,
+    "image": "https://source.unsplash.com/300x200/?bed_frame",
+    "description": "Sturdy and stylish bed frame, easy to assemble, available in various sizes.",
+    "rating": 4.6
+  },
+  {
+    "id": 68,
+    "name": "Pillows",
+    "category": "Home Goods",
+    "price": 50.0,
+    "image": "https://source.unsplash.com/300x200/?pillows",
+    "description": "Set of two soft and supportive pillows for a good night's sleep.",
+    "rating": 4.3
+  },
+  {
+    "id": 69,
+    "name": "Coffee Maker",
+    "category": "Kitchen Appliances",
+    "price": 80.0,
+    "image": "https://source.unsplash.com/300x200/?coffee_maker",
+    "description": "Automatic coffee maker with programmable features, brews up to 12 cups.",
+    "rating": 4.5
+  },
+  {
+    "id": 70,
+    "name": "Toaster",
+    "category": "Kitchen Appliances",
+    "price": 40.0,
+    "image": "https://source.unsplash.com/300x200/?toaster",
+    "description": "Four-slice toaster with adjustable browning settings.",
+    "rating": 4.2
+  },
+  {
+    "id": 71,
+    "name": "Soccer Ball",
+    "category": "Sports Equipment",
+    "price": 25.0,
+    "image": "https://source.unsplash.com/300x200/?soccer_ball",
+    "description": "Durable soccer ball, official size and weight.",
+    "rating": 4.4
+  },
+  {
+    "id": 72,
+    "name": "Golf Clubs",
+    "category": "Sports Equipment",
+    "price": 500.0,
+    "image": "https://source.unsplash.com/300x200/?golf_clubs",
+    "description": "Complete set of golf clubs for all skill levels.",
+    "rating": 4.8
+  },
+  {
+    "id": 73,
+    "name": "Shampoo",
+    "category": "Beauty & Personal Care",
+    "price": 15.0,
+    "image": "https://source.unsplash.com/300x200/?shampoo",
+    "description": "Gentle shampoo for all hair types, leaves hair clean and soft.",
+    "rating": 4.3
+  },
+  {
+    "id": 74,
+    "name": "Lotion",
+    "category": "Beauty & Personal Care",
+    "price": 12.0,
+    "image": "https://source.unsplash.com/300x200/?lotion",
+    "description": "Moisturizing body lotion, non-greasy formula.",
+    "rating": 4.2
+  },
+  {
+    "id": 75,
+    "name": "Wrench Set",
+    "category": "Tools & Home Improvement",
+    "price": 40.0,
+    "image": "https://source.unsplash.com/300x200/?wrench_set",
+    "description": "Set of durable wrenches in various sizes.",
+    "rating": 4.5
+  },
+  {
+    "id": 76,
+    "name": "Pliers Set",
+    "category": "Tools & Home Improvement",
+    "price": 35.0,
+    "image": "https://source.unsplash.com/300x200/?pliers_set",
+    "description": "Set of pliers for various tasks.",
+    "rating": 4.4
+  },
+  {
+    "id": 77,
+    "name": "Action Figure",
+    "category": "Toys & Games",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?action_figure",
+    "description": "Collectible action figure with detailed design.",
+    "rating": 4.6
+  },
+  {
+    "id": 78,
+    "name": "Doll",
+    "category": "Toys & Games",
+    "price": 30.0,
+    "image": "https://source.unsplash.com/300x200/?doll",
+    "description": "Beautiful doll with accessories.",
+    "rating": 4.5
+  },
+  {
+    "id": 79,
+    "name": "Cat Food",
+    "category": "Pet Supplies",
+    "price": 30.0,
+    "image": "https://source.unsplash.com/300x200/?cat_food",
+    "description": "Nutritious dry cat food.",
+    "rating": 4.4
+  },
+  {
+    "id": 80,
+    "name": "Fish Tank",
+    "category": "Pet Supplies",
+    "price": 100.0,
+    "image": "https://source.unsplash.com/300x200/?fish_tank",
+    "description": "Glass fish tank with filter and light.",
+    "rating": 4.7
+  },
+  {
+    "id": 81,
+    "name": "Office Chair Mat",
+    "category": "Office Products",
+    "price": 50.0,
+    "image": "https://source.unsplash.com/300x200/?office_chair_mat",
+    "description": "Durable chair mat to protect your flooring.",
+    "rating": 4.3
+  },
+  {
+    "id": 82,
+    "name": "Stapler",
+    "category": "Office Products",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?stapler",
+    "description": "Heavy-duty stapler.",
+    "rating": 4.2
+  },
+  {
+    "id": 83,
+    "name": "Car Vacuum Cleaner",
+    "category": "Automotive",
+    "price": 40.0,
+    "image": "https://source.unsplash.com/300x200/?car_vacuum_cleaner",
+    "description": "Portable car vacuum cleaner.",
+    "rating": 4.5
+  },
+  {
+    "id": 84,
+    "name": "Car Cover",
+    "category": "Automotive",
+    "price": 80.0,
+    "image": "https://source.unsplash.com/300x200/?car_cover",
+    "description": "Waterproof car cover.",
+    "rating": 4.6
+  },
+  {
+    "id": 85,
+    "name": "Vitamin C Supplement",
+    "category": "Health & Wellness",
+    "price": 15.0,
+    "image": "https://source.unsplash.com/300x200/?vitamin_c_supplement",
+    "description": "Vitamin C supplement.",
+    "rating": 4.4
+  },
+  {
+    "id": 86,
+    "name": "First Aid Kit",
+    "category": "Health & Wellness",
+    "price": 30.0,
+    "image": "https://source.unsplash.com/300x200/?first_aid_kit",
+    "description": "Portable first aid kit.",
+    "rating": 4.5
+  },
+  {
+    "id": 87,
+    "name": "Duffel Bag",
+    "category": "Luggage & Travel Gear",
+    "price": 60.0,
+    "image": "https://source.unsplash.com/300x200/?duffel_bag",
+    "description": "Durable duffel bag.",
+    "rating": 4.4
+  },
+  {
+    "id": 88,
+    "name": "Luggage Scale",
+    "category": "Luggage & Travel Gear",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?luggage_scale",
+    "description": "Digital luggage scale.",
+    "rating": 4.3
+  },
+  {
+    "id": 89,
+    "name": "Violin",
+    "category": "Musical Instruments",
+    "price": 300.0,
+    "image": "https://source.unsplash.com/300x200/?violin",
+    "description": "Acoustic violin with case and bow.",
+    "rating": 4.7
+  },
+  {
+    "id": 90,
+    "name": "Piano",
+    "category": "Musical Instruments",
+    "price": 2000.0,
+    "image": "https://source.unsplash.com/300x200/?piano",
+    "description": "Digital piano with 88 weighted keys.",
+    "rating": 4.9
+  },
+  {
+    "id": 91,
+    "name": "Hoodie",
+    "category": "Clothing",
+    "price": 45.0,
+    "image": "https://source.unsplash.com/300x200/?hoodie",
+    "description": "Comfortable and warm hoodie, perfect for casual wear.",
+    "rating": 4.4
+  },
+  {
+    "id": 92,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 80.0,
+    "image": "https://source.unsplash.com/300x200/?dress",
+    "description": "Elegant dress for special occasions, available in various styles.",
+    "rating": 4.6
+  },
+  {
+    "id": 93,
+    "name": "Camera",
+    "category": "Electronics",
+    "price": 700.0,
+    "image": "https://source.unsplash.com/300x200/?camera",
+    "description": "Digital camera with high resolution and zoom capability.",
+    "rating": 4.8
+  },
+  {
+    "id": 94,
+    "name": "TV",
+    "category": "Electronics",
+    "price": 800.0,
+    "image": "https://source.unsplash.com/300x200/?tv",
+    "description": "Smart TV with 4K resolution and streaming apps.",
+    "rating": 4.7
+  },
+  {
+    "id": 95,
+    "name": "Thriller Novel",
+    "category": "Books",
+    "price": 17.0,
+    "image": "https://source.unsplash.com/300x200/?thriller_novel",
+    "description": "A gripping thriller novel with a fast-paced plot.",
+    "rating": 4.7
+  },
+  {
+    "id": 96,
+    "name": "Biography",
+    "category": "Books",
+    "price": 21.0,
+    "image": "https://source.unsplash.com/300x200/?biography",
+    "description": "An inspiring biography of a famous person.",
+    "rating": 4.5
+  },
+  {
+    "id": 97,
+    "name": "Sofa Bed",
+    "category": "Home Goods",
+    "price": 500.0,
+    "image": "https://source.unsplash.com/300x200/?sofa_bed",
+    "description": "Versatile sofa bed, comfortable for sitting and sleeping.",
+    "rating": 4.5
+  },
+  {
+    "id": 98,
+    "name": "Curtains",
+    "category": "Home Goods",
+    "price": 100.0,
+    "image": "https://source.unsplash.com/300x200/?curtains",
+    "description": "Elegant curtains to enhance your home decor.",
+    "rating": 4.4
+  },
+  {
+    "id": 99,
+    "name": "Oven",
+    "category": "Kitchen Appliances",
+    "price": 500.0,
+    "image": "https://source.unsplash.com/300x200/?oven",
+    "description": "Electric oven with multiple cooking functions.",
+    "rating": 4.7
+  },
+  {
+    "id": 100,
+    "name": "Dishwasher",
+    "category": "Kitchen Appliances",
+    "price": 600.0,
+    "image": "https://source.unsplash.com/300x200/?dishwasher",
+    "description": "Energy-efficient dishwasher with various wash cycles.",
+    "rating": 4.6
+  },
+  {
+    "id": 101,
+    "name": "Dumbbells",
+    "category": "Sports Equipment",
+    "price": 80.0,
+    "image": "https://source.unsplash.com/300x200/?dumbbells",
+    "description": "Set of adjustable dumbbells for strength training.",
+    "rating": 4.6
+  },
+  {
+    "id": 102,
+    "name": "Exercise Bike",
+    "category": "Sports Equipment",
+    "price": 300.0,
+    "image": "https://source.unsplash.com/300x200/?exercise_bike",
+    "description": "Indoor exercise bike with adjustable resistance.",
+    "rating": 4.5
+  },
+  {
+    "id": 103,
+    "name": "Face Wash",
+    "category": "Beauty & Personal Care",
+    "price": 18.0,
+    "image": "https://source.unsplash.com/300x200/?face_wash",
+    "description": "Gentle face wash for daily cleansing.",
+    "rating": 4.4
+  },
+  {
+    "id": 104,
+    "name": "Moisturizer",
+    "category": "Beauty & Personal Care",
+    "price": 25.0,
+    "image": "https://source.unsplash.com/300x200/?moisturizer",
+    "description": "Hydrating moisturizer for all skin types.",
+    "rating": 4.5
+  },
+  {
+    "id": 105,
+    "name": "Saw",
+    "category": "Tools & Home Improvement",
+    "price": 50.0,
+    "image": "https://source.unsplash.com/300x200/?saw",
+    "description": "Cordless saw for cutting wood and other materials.",
+    "rating": 4.6
+  },
+  {
+    "id": 106,
+    "name": "Measuring Tape",
+    "category": "Tools & Home Improvement",
+    "price": 15.0,
+    "image": "https://source.unsplash.com/300x200/?measuring_tape",
+    "description": "Durable measuring tape.",
+    "rating": 4.3
+  },
+  {
+    "id": 107,
+    "name": "Remote Control Car",
+    "category": "Toys & Games",
+    "price": 40.0,
+    "image": "https://source.unsplash.com/300x200/?remote_control_car",
+    "description": "Fast remote control car.",
+    "rating": 4.7
+  },
+  {
+    "id": 108,
+    "name": "Building Set",
+    "category": "Toys & Games",
+    "price": 60.0,
+    "image": "https://source.unsplash.com/300x200/?building_set",
+    "description": "Large building set.",
+    "rating": 4.6
+  },
+  {
+    "id": 109,
+    "name": "Hamster Cage",
+    "category": "Pet Supplies",
+    "price": 70.0,
+    "image": "https://source.unsplash.com/300x200/?hamster_cage",
+    "description": "Multi-level hamster cage.",
+    "rating": 4.5
+  },
+  {
+    "id": 110,
+    "name": "Bird Cage",
+    "category": "Pet Supplies",
+    "price": 50.0,
+    "image": "https://source.unsplash.com/300x200/?bird_cage",
+    "description": "Spacious bird cage.",
+    "rating": 4.4
+  },
+  {
+    "id": 111,
+    "name": "Monitor",
+    "category": "Office Products",
+    "price": 300.0,
+    "image": "https://source.unsplash.com/300x200/?monitor",
+    "description": "27-inch monitor.",
+    "rating": 4.7
+  },
+  {
+    "id": 112,
+    "name": "Keyboard and Mouse Combo",
+    "category": "Office Products",
+    "price": 75.0,
+    "image": "https://source.unsplash.com/300x200/?keyboard_mouse_combo",
+    "description": "Wireless keyboard and mouse combo.",
+    "rating": 4.5
+  },
+  {
+    "id": 113,
+    "name": "Car Seat Covers",
+    "category": "Automotive",
+    "price": 50.0,
+    "image": "https://source.unsplash.com/300x200/?car_seat_covers",
+    "description": "Set of car seat covers.",
+    "rating": 4.4
+  },
+  {
+    "id": 114,
+    "name": "Roof Rack",
+    "category": "Automotive",
+    "price": 200.0,
+    "image": "https://source.unsplash.com/300x200/?roof_rack",
+    "description": "Car roof rack.",
+    "rating": 4.6
+  },
+  {
+    "id": 115,
+    "name": "Fish Oil Supplement",
+    "category": "Health & Wellness",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?fish_oil_supplement",
+    "description": "Fish oil supplement.",
+    "rating": 4.5
+  },
+  {
+    "id": 116,
+    "name": "Bandages",
+    "category": "Health & Wellness",
+    "price": 10.0,
+    "image": "https://source.unsplash.com/300x200/?bandages",
+    "description": "Box of bandages.",
+    "rating": 4.3
+  },
+  {
+    "id": 117,
+    "name": "Travel Pillow",
+    "category": "Luggage & Travel Gear",
+    "price": 25.0,
+    "image": "https://source.unsplash.com/300x200/?travel_pillow",
+    "description": "Comfortable travel pillow.",
+    "rating": 4.4
+  },
+  {
+    "id": 118,
+    "name": "Luggage Tag",
+    "category": "Luggage & Travel Gear",
+    "price": 10.0,
+    "image": "https://source.unsplash.com/300x200/?luggage_tag",
+    "description": "Set of luggage tags.",
+    "rating": 4.2
+  },
+  {
+    "id": 119,
+    "name": "Trumpet",
+    "category": "Musical Instruments",
+    "price": 500.0,
+    "image": "https://source.unsplash.com/300x200/?trumpet",
+    "description": "Brass trumpet.",
+    "rating": 4.7
+  },
+  {
+    "id": 120,
+    "name": "Microphone",
+    "category": "Musical Instruments",
+    "price": 150.0,
+    "image": "https://source.unsplash.com/300x200/?microphone",
+    "description": "Condenser microphone.",
+    "rating": 4.6
+  },
+  {
+    "id": 121,
+    "name": "Sweater",
+    "category": "Clothing",
+    "price": 60.0,
+    "image": "https://source.unsplash.com/300x200/?sweater",
+    "description": "Warm and cozy sweater, perfect for fall and winter.",
+    "rating": 4.5
+  },
+  {
+    "id": 122,
+    "name": "Skirt",
+    "category": "Clothing",
+    "price": 50.0,
+    "image": "https://source.unsplash.com/300x200/?skirt",
+    "description": "Stylish skirt, suitable for casual and semi-formal occasions.",
+    "rating": 4.4
+  },
+  {
+    "id": 123,
+    "name": "Gaming Mouse",
+    "category": "Electronics",
+    "price": 70.0,
+    "image": "https://source.unsplash.com/300x200/?gaming_mouse",
+    "description": "High-precision gaming mouse with customizable buttons and RGB lighting.",
+    "rating": 4.7
+  },
+  {
+    "id": 124,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 100.0,
+    "image": "https://source.unsplash.com/300x200/?keyboard",
+    "description": "Mechanical keyboard with tactile feedback and durable keys.",
+    "rating": 4.6
+  },
+  {
+    "id": 125,
+    "name": "Poetry Book",
+    "category": "Books",
+    "price": 14.0,
+    "image": "https://source.unsplash.com/300x200/?poetry_book",
+    "description": "A collection of beautiful and thought-provoking poems.",
+    "rating": 4.5
+  },
+  {
+    "id": 126,
+    "name": "Graphic Novel",
+    "category": "Books",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?graphic_novel",
+    "description": "A visually stunning graphic novel with a compelling story.",
+    "rating": 4.6
+  },
+  {
+    "id": 127,
+    "name": "Dining Chairs",
+    "category": "Home Goods",
+    "price": 200.0,
+    "image": "https://source.unsplash.com/300x200/?dining_chairs",
+    "description": "Set of four elegant dining chairs with comfortable seating.",
+    "rating": 4.4
+  },
+  {
+    "id": 128,
+    "name": "Wall Art",
+    "category": "Home Goods",
+    "price": 80.0,
+    "image": "https://source.unsplash.com/300x200/?wall_art",
+    "description": "A beautiful piece of wall art to add style to your home.",
+    "rating": 4.5
+  },
+  {
+    "id": 129,
+    "name": "Air Fryer",
+    "category": "Kitchen Appliances",
+    "price": 120.0,
+    "image": "https://source.unsplash.com/300x200/?air_fryer",
+    "description": "A healthy way to cook your favorite foods with less oil.",
+    "rating": 4.7
+  },
+  {
+    "id": 130,
+    "name": "Slow Cooker",
+    "category": "Kitchen Appliances",
+    "price": 80.0,
+    "image": "https://source.unsplash.com/300x200/?slow_cooker",
+    "description": "A convenient slow cooker for making delicious meals with minimal effort.",
+    "rating": 4.6
+  },
+  {
+    "id": 131,
+    "name": "Yoga Pants",
+    "category": "Sports Equipment",
+    "price": 40.0,
+    "image": "https://source.unsplash.com/300x200/?yoga_pants",
+    "description": "Comfortable and flexible yoga pants, perfect for workouts and everyday wear.",
+    "rating": 4.5
+  },
+  {
+    "id": 132,
+    "name": "Resistance Bands",
+    "category": "Sports Equipment",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?resistance_bands",
+    "description": "Set of resistance bands for strength training and stretching.",
+    "rating": 4.4
+  },
+  {
+    "id": 133,
+    "name": "Sunscreen",
+    "category": "Beauty & Personal Care",
+    "price": 15.0,
+    "image": "https://source.unsplash.com/300x200/?sunscreen",
+    "description": "High-protection sunscreen to shield your skin from harmful UV rays.",
+    "rating": 4.6
+  },
+  {
+    "id": 134,
+    "name": "Lipstick Set",
+    "category": "Beauty & Personal Care",
+    "price": 30.0,
+    "image": "https://source.unsplash.com/300x200/?lipstick_set",
+    "description": "A set of vibrant and long-lasting lipsticks in various shades.",
+    "rating": 4.5
+  },
+  {
+    "id": 135,
+    "name": "Power Drill",
+    "category": "Tools & Home Improvement",
+    "price": 80.0,
+    "image": "https://source.unsplash.com/300x200/?power_drill",
+    "description": "A powerful power drill for various drilling tasks.",
+    "rating": 4.7
+  },
+  {
+    "id": 136,
+    "name": "Level",
+    "category": "Tools & Home Improvement",
+    "price": 25.0,
+    "image": "https://source.unsplash.com/300x200/?level",
+    "description": "A reliable level tool for ensuring accuracy in your projects.",
+    "rating": 4.4
+  },
+  {
+    "id": 137,
+    "name": "Educational Toy",
+    "category": "Toys & Games",
+    "price": 35.0,
+    "image": "https://source.unsplash.com/300x200/?educational_toy",
+    "description": "An engaging educational toy that promotes learning and development.",
+    "rating": 4.6
+  },
+  {
+    "id": 138,
+    "name": "Baby Toy",
+    "category": "Toys & Games",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?baby_toy",
+    "description": "Safe and stimulating toy for babies.",
+    "rating": 4.5
+  },
+  {
+    "id": 139,
+    "name": "Aquarium",
+    "category": "Pet Supplies",
+    "price": 150.0,
+    "image": "https://source.unsplash.com/300x200/?aquarium",
+    "description": "A beautiful aquarium to create a peaceful underwater world.",
+    "rating": 4.7
+  },
+  {
+    "id": 140,
+    "name": "Pet Carrier",
+    "category": "Pet Supplies",
+    "price": 40.0,
+    "image": "https://source.unsplash.com/300x200/?pet_carrier",
+    "description": "A comfortable and secure pet carrier for travel.",
+    "rating": 4.4
+  },
+  {
+    "id": 141,
+    "name": "Printer",
+    "category": "Office Products",
+    "price": 200.0,
+    "image": "https://source.unsplash.com/300x200/?printer",
+    "description": "All-in-one printer with scanning and copying functions.",
+    "rating": 4.6
+  },
+  {
+    "id": 142,
+    "name": "Shredder",
+    "category": "Office Products",
+    "price": 100.0,
+    "image": "https://source.unsplash.com/300x200/?shredder",
+    "description": "Paper shredder.",
+    "rating": 4.5
+  },
+  {
+    "id": 143,
+    "name": "Car Polish",
+    "category": "Automotive",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?car_polish",
+    "description": "Car polish.",
+    "rating": 4.4
+  },
+  {
+    "id": 144,
+    "name": "Jumper Cables",
+    "category": "Automotive",
+    "price": 30.0,
+    "image": "https://source.unsplash.com/300x200/?jumper_cables",
+    "description": "Jumper cables.",
+    "rating": 4.5
+  },
+  {
+    "id": 145,
+    "name": "Collagen Supplement",
+    "category": "Health & Wellness",
+    "price": 30.0,
+    "image": "https://source.unsplash.com/300x200/?collagen_supplement",
+    "description": "Collagen supplement.",
+    "rating": 4.6
+  },
+  {
+    "id": 146,
+    "name": "Pain Reliever",
+    "category": "Health & Wellness",
+    "price": 12.0,
+    "image": "https://source.unsplash.com/300x200/?pain_reliever",
+    "description": "Pain reliever.",
+    "rating": 4.3
+  },
+  {
+    "id": 147,
+    "name": "Travel Adapter",
+    "category": "Luggage & Travel Gear",
+    "price": 20.0,
+    "image": "https://source.unsplash.com/300x200/?travel_adapter",
+    "description": "Universal travel adapter.",
+    "rating": 4.4
+  },
+  {
+    "id": 148,
+    "name": "Neck Pillow",
+    "category": "Luggage & Travel Gear",
+    "price": 30.0,
+    "image": "https://source.unsplash.com/300x200/?neck_pillow",
+    "description": "Neck pillow.",
+    "rating": 4.5
+  },
+  {
+    "id": 149,
+    "name": "Saxophone",
+    "category": "Musical Instruments",
+    "price": 700.0,
+    "image": "https://source.unsplash.com/300x200/?saxophone",
+    "description": "Alto saxophone.",
+    "rating": 4.8
+  },
+  {
+    "id": 150,
+    "name": "Synthesizer",
+    "category": "Musical Instruments",
+    "price": 800.0,
+    "image": "https://source.unsplash.com/300x200/?synthesizer",
+    "description": "Synthesizer.",
+    "rating": 4.7
+  }
+]

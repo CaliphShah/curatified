@@ -79,7 +79,7 @@ const ProductGrid = () => {
         ) : (
           // Product grid
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-2 transition-all duration-500 justify-items-center">
-            {products.map((product, index) => (
+            {products.map((product) => (
               <div
                 key={product.id}
                 className="h-72 w-48 mb-6 animate-fadeInUp opacity-0 animate-delay-[100ms]"
